@@ -3,7 +3,7 @@ import React from "react";
 
 const experiences = [
   {
-    role: "GF&BM Summer Analyst",
+    role: "Quantitative Risk Summer Analyst",
     company: "J.P. Morgan Chase & Co.",
     duration: "June 2023 – August 2023",
     logo: "/logos/JPMlogo.jpg",
